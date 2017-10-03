@@ -1,6 +1,9 @@
 {
 	"figure-elem": [
 		{
+			"image": "https://cdn.rawgit.com/Tarqez/mv-data/c6d5af87b13d1ef646da0cde312904f152abb6dc/images/puppies.jpg"
+		},
+		{
 			"image": "https://cdn.rawgit.com/Tarqez/mv-data/1799f003c725cf0e7cf5ece79b48b315ed6d6a40/images/funny%20cute%20puppies%202.jpg",
 			"caption": "Cucciolo felice"
 		},
@@ -15,9 +18,6 @@
 		{
 			"image": "https://cdn.rawgit.com/Tarqez/mv-data/f832c8ae0b5279ae82ca1178050408bec5b78de9/images/images.duckduckgo.jpg",
 			"caption": "Cucciolo musetto sporco"
-		},
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/c6d5af87b13d1ef646da0cde312904f152abb6dc/images/puppies.jpg"
 		}
 	]
 }
