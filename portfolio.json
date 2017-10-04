@@ -1,5 +1,10 @@
 {
 	"figure-elem": [
-		{}
+		{
+			"image": "https://cdn.rawgit.com/Tarqez/mv-data/b1f32701f86054fb4d8534241d8f86641c2bcf76/images/cute%20puppies%201.jpg"
+		},
+		{
+			"image": "https://cdn.rawgit.com/Tarqez/mv-data/8a51415f17178a3ffbb924dd184fc7b5b594fef4/images/Cute-Kissing-Puppies-02.jpg"
+		}
 	]
 }
