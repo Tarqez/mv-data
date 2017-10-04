@@ -1,25 +1,5 @@
 {
 	"figure-elem": [
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/c6d5af87b13d1ef646da0cde312904f152abb6dc/images/puppies.jpg",
-			"caption": "Barboncino"
-		},
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/f832c8ae0b5279ae82ca1178050408bec5b78de9/images/images.duckduckgo.jpg",
-			"caption": "<p><strong>Cucciolo</strong> <em>musetto sporco</em></p>"
-		},
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/1799f003c725cf0e7cf5ece79b48b315ed6d6a40/images/funny%20cute%20puppies%202.jpg",
-			"caption": "Cucciolo felice"
-		},
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/bdd1d7389b7def986b1544c7b69d394e4318b360/images/Cute-Kissing-Puppies-02.jpg",
-			"caption": "Cuccioli"
-		},
-		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/8315ee458be016dd2a10cc54433165d6fbb7ccad/images/cute%20puppies%201.jpg",
-			"caption": "Cagnetto"
-		},
 		{}
 	]
 }
