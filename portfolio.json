@@ -6,10 +6,15 @@
 		},
 		{
 			"image": "https://cdn.rawgit.com/Tarqez/mv-data/8a51415f17178a3ffbb924dd184fc7b5b594fef4/images/Cute-Kissing-Puppies-02.jpg",
-			"caption": "<p>Puppies</p>"
+			"caption": "<p><em>Puppies</em></p>"
 		},
 		{
-			"image": "https://cdn.rawgit.com/Tarqez/mv-data/801f3b4b8775fe64b9281abffc0459207be29593/images/puppies.jpg"
+			"image": "https://cdn.rawgit.com/Tarqez/mv-data/801f3b4b8775fe64b9281abffc0459207be29593/images/puppies.jpg",
+			"caption": "<p><em><strong>White small dog</strong></em></p>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/Tarqez/mv-data/e32cc1c7c9cb0cba0c323aab5f8fc14abee643b6/images/images.duckduckgo.jpg",
+			"caption": "<h1>Musetto sporco</h1>"
 		}
 	]
 }
